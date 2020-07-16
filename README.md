@@ -12,4 +12,4 @@
 - Parse multiproduct images properly(capybara?)
 
 ## Usage
-- ruby app.rb url file_name.csv
+- ruby app.rb https://www.petsonic.com/snacks-huesos-para-perros/ results.csv

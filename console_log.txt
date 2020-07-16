@@ -1,0 +1,279 @@
+ruby app.rb https://www.petsonic.com/snacks-huesos-para-perros/ test.csv 
+
+Parsing started:
+Finding pagination pages
+Found 2 category page
+Found 3 category page
+Done
+Finding products URLs
+Product found - https://www.petsonic.com/snacks-de-pollo-en-monodosis-para-perro.html
+Product found - https://www.petsonic.com/snacks-de-queso-en-monodosis-para-perro.html
+Product found - https://www.petsonic.com/snacks-de-higado-en-monodosis-para-perro.html
+Product found - https://www.petsonic.com/snacks-de-pescado-en-monodosis-para-perro.html
+Product found - https://www.petsonic.com/snacks-de-pato-en-monodosis-para-perro.html
+Product found - https://www.petsonic.com/kong-pasta-easy-treat-para-perros.html
+Product found - https://www.petsonic.com/purina-pro-plan-adventuros-mini-sticks-bufalo-para-perros.html
+Product found - https://www.petsonic.com/purina-pro-plan-adventuros-strips-venado-para-perros.html
+Product found - https://www.petsonic.com/purina-pro-plan-adventuros-sticks-bufalo-para-perros.html
+Product found - https://www.petsonic.com/purina-pro-plan-biscuits-dental-bar-150gr-para-perros.html
+Product found - https://www.petsonic.com/purina-pro-plan-biscuits-light-400gr-para-perros.html
+Product found - https://www.petsonic.com/treat-free-run-duck-35-gr.html
+Product found - https://www.petsonic.com/treat-grass-fed-lamb-35-gr.html
+Product found - https://www.petsonic.com/treat-yorkshire-pork-35-gr.html
+Product found - https://www.petsonic.com/orijen-treat-free-run-duck-42-5-gr-para-perros.html
+Product found - https://www.petsonic.com/regional-treats-42-5-gr.html
+Product found - https://www.petsonic.com/orijen-treat-wild-board-56-gr-para-perros.html
+Product found - https://www.petsonic.com/orijen-treats-original-56gr-para-perros.html
+Product found - https://www.petsonic.com/affinity-advance-puppy-snack-para-perros.html
+Product found - https://www.petsonic.com/affinity-advance-dental-care-stick-mini-para-perros.html
+Product found - https://www.petsonic.com/affinity-advance-dental-care-stick-medium-para-perros.html
+Product found - https://www.petsonic.com/affinity-advance-hypoallergenic-snack-para-perros.html
+Product found - https://www.petsonic.com/affinity-advance-appetite-control-snack-para-perros.html
+Product found - https://www.petsonic.com/affinity-advance-articular-snack-para-perros.html
+Product found - https://www.petsonic.com/sensitive-snack.html
+Product found - https://www.petsonic.com/siete-anos-snack.html
+Product found - https://www.petsonic.com/bayer-limpiador-dental-masticable-para-perros.html
+Product found - https://www.petsonic.com/snack-dentalife-para-perro-x-small.html
+Product found - https://www.petsonic.com/purina-pro-plan-snack-dentalife-mini-para-perros.html
+Product found - https://www.petsonic.com/purina-pro-plan-snack-dentalife-medianos-para-perros.html
+Product found - https://www.petsonic.com/purina-pro-plan-snack-dentalife-grandes-para-perros.html
+Product found - https://www.petsonic.com/pedigree-dentastix-5-10-kg-sticks-dentales-para-perros.html
+Product found - https://www.petsonic.com/pedigree-dentastix-10-25kg-sticks-dentales-para-perros.html
+Product found - https://www.petsonic.com/pedigree-dentastix-25-kg-para-perros.html
+Product found - https://www.petsonic.com/glyco-flex-l-snacks-para-perro.html
+Product found - https://www.petsonic.com/vetnova-glyco-flex-ll-snacks-para-perro.html
+Product found - https://www.petsonic.com/vetnova-glyco-flex-l-snacks-para-gatos-y-perros-pequenos.html
+Product found - https://www.petsonic.com/vetnova-glyco-flex-lll-snacks-para-perro.html
+Product found - https://www.petsonic.com/vetnova-glyco-flex-lll-snacks-para-perro-mini.html
+Product found - https://www.petsonic.com/vetnova-multiva-active-para-perro.html
+Product found - https://www.petsonic.com/vetnoca-multiva-calming-para-gato-y-perros-pequenos.html
+Product found - https://www.petsonic.com/vetnova-multiva-calming-para-perros-medianos-y-grandes.html
+Product found - https://www.petsonic.com/vetnova-multiva-motion-para-perro.html
+Product found - https://www.petsonic.com/snack-healthy-treats-mini-para-perro.html
+Product found - https://www.petsonic.com/snack-healthy-treats-para-perro.html
+Product found - https://www.petsonic.com/snack-healthy-treats-hypoallergenic-para-perro.html
+Product found - https://www.petsonic.com/virbac-veggiedent-fresh-para-perro.html
+Product found - https://www.petsonic.com/snack-crunchy-cordero-arandanos.html
+Product found - https://www.petsonic.com/snack-crunchy-avestruz-moras.html
+Product found - https://www.petsonic.com/snack-crunchy-salmon-arandanos.html
+Product found - https://www.petsonic.com/snack-crunchy-caballa-frambuesas.html
+Product found - https://www.petsonic.com/orijen-black-angus-beef-dog-treats-premios-para-perros.html
+Product found - https://www.petsonic.com/orijen-regional-red-dog-treats-premios-para-perros.html
+Product found - https://www.petsonic.com/tundra-dog-treats-premios-para-perros.html
+Product found - https://www.petsonic.com/adventuros-maxi-steaks-wild-buffalo-70grs.html
+Product found - https://www.petsonic.com/juguete-hueso-natural-pollo-40grs-6-unidades-comestible-6-unidades-ferplast.html
+Product found - https://www.petsonic.com/juguete-goodbite-natural-cordero-comestible-4-unidades-ferplast.html
+Product found - https://www.petsonic.com/juguete-goodbite-natural-pollo-comestible-4-unidades-ferplast.html
+Product found - https://www.petsonic.com/juguete-goodbite-natural-cereal-s-40gr-comestible-6-unidades-ferplast.html
+Product found - https://www.petsonic.com/juguete-goodbite-natural-cordero-40grs-6-unidades-comestible-ferplast.html
+Product found - https://www.petsonic.com/juguete-goodbite-natural-jamon-6-unidades-comestible-ferplast.html
+Product found - https://www.petsonic.com/juguete-goodbite-natural-pollo-6-unidades-comestible-ferplast.html
+Product found - https://www.petsonic.com/juguete-goodbite-natural-ternera-6-unidades-comestible-ferplast.html
+Product found - https://www.petsonic.com/juguete-hueso-natural-cereal-s-40grs-comestible-6-unidades-ferplast.html
+Product found - https://www.petsonic.com/juguete-hueso-natural-cordero-s-40grs-comestible-6-unidades-ferplast.html
+Product found - https://www.petsonic.com/juguete-hueso-natural-jamon-40grs-6-unidades-comestible-6-unidades-ferplast.html
+Done
+Found 66 product pages
+Products pages parsing started:
+Parsing https://www.petsonic.com/snacks-de-pollo-en-monodosis-para-perro.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/snacks-de-queso-en-monodosis-para-perro.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/snacks-de-higado-en-monodosis-para-perro.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/snacks-de-pescado-en-monodosis-para-perro.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/snacks-de-pato-en-monodosis-para-perro.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/kong-pasta-easy-treat-para-perros.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/purina-pro-plan-adventuros-mini-sticks-bufalo-para-perros.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/purina-pro-plan-adventuros-strips-venado-para-perros.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/purina-pro-plan-adventuros-sticks-bufalo-para-perros.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/purina-pro-plan-biscuits-dental-bar-150gr-para-perros.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/purina-pro-plan-biscuits-light-400gr-para-perros.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/treat-free-run-duck-35-gr.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/treat-grass-fed-lamb-35-gr.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/treat-yorkshire-pork-35-gr.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/orijen-treat-free-run-duck-42-5-gr-para-perros.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/regional-treats-42-5-gr.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/orijen-treat-wild-board-56-gr-para-perros.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/orijen-treats-original-56gr-para-perros.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/affinity-advance-puppy-snack-para-perros.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/affinity-advance-dental-care-stick-mini-para-perros.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/affinity-advance-dental-care-stick-medium-para-perros.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/affinity-advance-hypoallergenic-snack-para-perros.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/affinity-advance-appetite-control-snack-para-perros.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/affinity-advance-articular-snack-para-perros.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/sensitive-snack.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/siete-anos-snack.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/bayer-limpiador-dental-masticable-para-perros.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/snack-dentalife-para-perro-x-small.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/purina-pro-plan-snack-dentalife-mini-para-perros.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/purina-pro-plan-snack-dentalife-medianos-para-perros.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/purina-pro-plan-snack-dentalife-grandes-para-perros.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/pedigree-dentastix-5-10-kg-sticks-dentales-para-perros.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/pedigree-dentastix-10-25kg-sticks-dentales-para-perros.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/pedigree-dentastix-25-kg-para-perros.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/glyco-flex-l-snacks-para-perro.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/vetnova-glyco-flex-ll-snacks-para-perro.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/vetnova-glyco-flex-l-snacks-para-gatos-y-perros-pequenos.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/vetnova-glyco-flex-lll-snacks-para-perro.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/vetnova-glyco-flex-lll-snacks-para-perro-mini.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/vetnova-multiva-active-para-perro.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/vetnoca-multiva-calming-para-gato-y-perros-pequenos.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/vetnova-multiva-calming-para-perros-medianos-y-grandes.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/vetnova-multiva-motion-para-perro.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/snack-healthy-treats-mini-para-perro.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/snack-healthy-treats-para-perro.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/snack-healthy-treats-hypoallergenic-para-perro.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/virbac-veggiedent-fresh-para-perro.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/snack-crunchy-cordero-arandanos.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/snack-crunchy-avestruz-moras.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/snack-crunchy-salmon-arandanos.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/snack-crunchy-caballa-frambuesas.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/orijen-black-angus-beef-dog-treats-premios-para-perros.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/orijen-regional-red-dog-treats-premios-para-perros.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/tundra-dog-treats-premios-para-perros.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/adventuros-maxi-steaks-wild-buffalo-70grs.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/juguete-hueso-natural-pollo-40grs-6-unidades-comestible-6-unidades-ferplast.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/juguete-goodbite-natural-cordero-comestible-4-unidades-ferplast.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/juguete-goodbite-natural-pollo-comestible-4-unidades-ferplast.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/juguete-goodbite-natural-cereal-s-40gr-comestible-6-unidades-ferplast.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/juguete-goodbite-natural-cordero-40grs-6-unidades-comestible-ferplast.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/juguete-goodbite-natural-jamon-6-unidades-comestible-ferplast.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/juguete-goodbite-natural-pollo-6-unidades-comestible-ferplast.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/juguete-goodbite-natural-ternera-6-unidades-comestible-ferplast.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/juguete-hueso-natural-cereal-s-40grs-comestible-6-unidades-ferplast.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/juguete-hueso-natural-cordero-s-40grs-comestible-6-unidades-ferplast.html
+Parsing product variations
+Done
+Parsing https://www.petsonic.com/juguete-hueso-natural-jamon-40grs-6-unidades-comestible-6-unidades-ferplast.html
+Parsing product variations
+Done
+Products pages parsing successfully ended
+Writing in CSV
+Done
+Parsing successfully ended
